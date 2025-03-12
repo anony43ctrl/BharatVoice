@@ -23,7 +23,7 @@ BharatVoice is an **AI-driven document retrieval system** designed to search and
 The dataset consists of **official Lok Sabha speeches** sourced from:  
 🔗 **[eParliament (eparlib.nic.in)](https://eparlib.nic.in/handle/123456789/7/browse?type=date&sort_by=1&order=DESC&rpp=20&etal=-1&null=&offset=0)**  
 
-##🛠 Usage
+## 🛠 Usage
 Enter a query (e.g., "policies on economy"), and the system will:
 ✅ Retrieve top matching Lok Sabha speeches.
 ✅ Extract relevant sentences using NLTK-based summarization.
